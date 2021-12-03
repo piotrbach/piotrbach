@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi! I'm Piotr. I'm a .NET Consultant and web developer with 14+ years in the web industry. I'm passionate about C#, Azure, Umbraco CMS, automation, and productivity.
+Hi! I'm Piotr. I'm a .NET Consultant and web developer with 14+ years in the web & Microsoft .NET ecosystem. I'm passionate about C#, Azure, Umbraco CMS, automation, and productivity.
 
 I like sharing my knowledge & expierience. Some of my popular publications:
 
