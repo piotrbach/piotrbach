@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Hi! I'm Piotr. I'm a .NET Consultant and web developer with 14+ years in the web industry. I'm passionate about C#, Azure, Umbraco CMS, automation, and productivity.
 <!--
 **piotrbach/piotrbach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
