@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Hi! I'm Piotr. I'm a .NET Consultant and web developer with 14+ years in the web & Microsoft .NET ecosystem. I'm passionate about C#, Azure, Umbraco CMS, automation, and productivity.
+Hi! I'm Piotr. 
+
+.NET Architect and Umbraco expert who holds dual degrees in Computer Science (M.Sc.) and Mathematics (M.S.). With over a decade of commercial programming experience since 2008, his professional journey is driven by a profound passion for crafting complex web solutions. Primary focused on the Umbraco platform, which he believes is the ultimate content management framework tailored for business growth and innovation.
 
 I like sharing my knowledge & experience. Some of my popular publications:
 
