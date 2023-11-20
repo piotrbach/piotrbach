@@ -1,9 +1,11 @@
 ### Hi! I'm Piotr.  👋
 
-.NET Architect and Umbraco expert who holds dual degrees in Computer Science (M.Sc.) and Mathematics (M.S.). With over a decade of commercial programming experience since 2008, his professional journey is driven by a profound passion for crafting complex web solutions. Primary focused on the Umbraco platform, which he believes is the ultimate content management framework tailored for business growth and innovation.
+.NET Architect and Umbraco expert who holds dual degrees in Computer Science (M.Sc.) and Mathematics (M.S.).<br> 
+With over a decade of commercial programming experience since 2008, his professional journey is driven by a profound passion for crafting complex web solutions.<br> 
+Primary focused on the Umbraco platform, which he believes is the ultimate content management framework tailored for business growth and innovation.
 
-I like sharing my knowledge & experience. 
-Some of my popular publications:
+I find pleasure in sharing my knowledge and learnings.<br> 
+Below, you can find some of my popular publications:
 
 ## Umbraco CMS
 
