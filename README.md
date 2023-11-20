@@ -39,6 +39,7 @@ I like sharing my knowledge & experience. Some of my popular publications:
 * [How to Retrieve Azure App Service FTP Credentials](https://umbracare.net/blog/how-to-retrieve-azure-app-service-ftp-credentials/)
 
 ## ASP.NET Core & ASP .NET
+* [WordPress Password Validation in .NET Core Using JWT and C#](https://umbracare.net/blog/wordpress-password-validation-in-net-core-using-jwt-and-c-sharp/)
 * [ASP.NET Core Essential Features](https://umbracare.net/blog/aspnet-core-essential-features/)
 * [Optimizing Azure Web App: Enabling Dynamic GZIP Compression](https://umbracare.net/blog/optimizing-azure-web-app-enabling-dynamic-gzip-compression/)
 * [Optimizing ASP.NET with Bundling and Minification](https://umbracare.net/blog/optimizing-aspnet-with-bundling-and-minification/)
