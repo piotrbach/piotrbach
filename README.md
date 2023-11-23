@@ -9,6 +9,7 @@ Below, you can find some of my popular publications:
 
 ## Umbraco CMS
 
+* [How to use default language as default culture for threads in Umbraco](https://umbracare.net/blog/how-to-use-default-language-as-default-culture-for-threads-in-umbraco/)
 * [How to Disable Examine Indexing in Umbraco](https://umbracare.net/blog/how-to-disable-examine-indexing-in-umbraco/)
 * [Umbraco Redirect Url Table Data Truncated SQL Error](https://umbracare.net/blog/umbraco-redirect-url-table-data-truncated-sql-error/)
 * [How to streamline Umbraco content workflow for maximum Savings](https://umbracare.net/blog/how-to-streamline-umbraco-content-workflow-for-maximum-savings/)
