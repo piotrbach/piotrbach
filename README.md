@@ -45,6 +45,7 @@ Below, you can find some of my popular publications:
 * [ASP.NET Core Essential Features](https://umbracare.net/blog/aspnet-core-essential-features/)
 * [Optimizing Azure Web App: Enabling Dynamic GZIP Compression](https://umbracare.net/blog/optimizing-azure-web-app-enabling-dynamic-gzip-compression/)
 * [Optimizing ASP.NET with Bundling and Minification](https://umbracare.net/blog/optimizing-aspnet-with-bundling-and-minification/)
+* [How to disable ReSharper in Visual Studio](https://umbracare.net/blog/disabling-resharper-in-visual-studio/)
 
 ## MS SQL
 * [How to rebuild all indexes in MS SQL server database](https://umbracare.net/blog/how-to-rebuild-all-indexes-in-ms-sql-server-database/)
