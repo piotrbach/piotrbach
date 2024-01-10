@@ -33,7 +33,7 @@ Below, you can find some of my popular publications:
 * [How to detect slow responses in Umbraco API](https://umbracare.net/blog/how-to-detect-slow-responses-in-umbraco-api/)
 * [How to speed up Umbraco CMS performance](https://umbracare.net/blog/how-to-speed-up-umbraco-cms-performance/)
 * [Umbraco Web Api and MVC Dependency Injection with Autofac](https://umbracare.net/blog/umbraco-web-api-and-mvc-dependency-injection-with-autofac/)
-
+* [AngularJS's Future Explored - The Road Beyond End-of-Life](https://umbracare.net/blog/what-it-is-the-future-of-angularjs/)
 
 ## Azure
 
