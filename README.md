@@ -8,6 +8,7 @@ I find pleasure in sharing my knowledge and learnings.<br>
 Below, you can find some of my popular publications:
 
 ## Umbraco CMS
+* [How to get Umbraco model property alias](https://umbracare.net/blog/how-to-get-umbraco-model-property-alias/)
 * [Umbraco Developer Key Skills](https://umbracare.net/blog/umbraco-developer-key-skills/)
 * [How to use default language as default culture for threads in Umbraco](https://umbracare.net/blog/how-to-use-default-language-as-default-culture-for-threads-in-umbraco/)
 * [How to Disable Examine Indexing in Umbraco](https://umbracare.net/blog/how-to-disable-examine-indexing-in-umbraco/)
@@ -34,7 +35,7 @@ Below, you can find some of my popular publications:
 * [How to speed up Umbraco CMS performance](https://umbracare.net/blog/how-to-speed-up-umbraco-cms-performance/)
 * [Umbraco Web Api and MVC Dependency Injection with Autofac](https://umbracare.net/blog/umbraco-web-api-and-mvc-dependency-injection-with-autofac/)
 * [AngularJS's Future Explored - The Road Beyond End-of-Life](https://umbracare.net/blog/what-it-is-the-future-of-angularjs/)
-
+  
 ## Azure
 
 * [Deploying ASP .NET app to FTP with Azure DevOps CI/CD pipeline](https://umbracare.net/blog/deploying-asp-net-app-to-ftp-with-azure-devops-cicd-pipeline/)
