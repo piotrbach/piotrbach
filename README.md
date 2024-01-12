@@ -5,7 +5,7 @@ With over a decade of commercial programming experience since 2008, his professi
 Primary focused on the Umbraco platform, which he believes is the ultimate content management framework tailored for business growth and innovation.
 
 I find pleasure in sharing my knowledge and learnings.<br> 
-Below, you can find some of my popular publications:
+Below, you can find some of my popular publications and collaborations:
 
 ## Umbraco CMS
 * [How to get Umbraco model property alias](https://umbracare.net/blog/how-to-get-umbraco-model-property-alias/)
