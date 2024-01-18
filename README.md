@@ -49,6 +49,7 @@ Below, you can find some of my popular publications and collaborations:
 * [Optimizing ASP.NET with Bundling and Minification](https://umbracare.net/blog/optimizing-aspnet-with-bundling-and-minification/)
 * [How to disable ReSharper in Visual Studio](https://umbracare.net/blog/disabling-resharper-in-visual-studio/)
 * [Mastering Async Action Filters in ASP.NET Core](https://umbracare.net/blog/mastering-async-action-filters-in-aspnet-core/)
+* [Testing ASP.NET Core Action Filters with xUnit](https://umbracare.net/blog/testing-aspnet-core-action-filters-with-xunit/)
 
 ## MS SQL
 * [How to rebuild all indexes in MS SQL server database](https://umbracare.net/blog/how-to-rebuild-all-indexes-in-ms-sql-server-database/)
