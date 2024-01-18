@@ -35,6 +35,7 @@ Below, you can find some of my popular publications and collaborations:
 * [How to speed up Umbraco CMS performance](https://umbracare.net/blog/how-to-speed-up-umbraco-cms-performance/)
 * [Umbraco Web Api and MVC Dependency Injection with Autofac](https://umbracare.net/blog/umbraco-web-api-and-mvc-dependency-injection-with-autofac/)
 * [AngularJS's Future Explored - The Road Beyond End-of-Life](https://umbracare.net/blog/what-it-is-the-future-of-angularjs/)
+* [Problem with linking in Umbraco across pages in different cultures](https://umbracare.net/blog/problem-with-linking-in-umbraco-across-pages-in-different-cultures/)
   
 ## Azure
 
