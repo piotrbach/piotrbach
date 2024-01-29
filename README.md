@@ -55,7 +55,7 @@ Below, you can find some of my popular publications and collaborations:
 * [How to rebuild all indexes in MS SQL server database](https://umbracare.net/blog/how-to-rebuild-all-indexes-in-ms-sql-server-database/)
 * [Mastering Paginated Deletions in MSSQL Tables](https://umbracare.net/blog/mastering-paginated-deletions-in-mssql-tables/)
 * [Resetting Identity Column Values in SQL Server using DBCC CHECKIDENT](https://umbracare.net/blog/resetting-identity-column-values-in-sql-server-using-dbcc-checkident/)
-
+* [Searching for text across multiple tables in SQL Server](https://umbracare.net/blog/searching-for-text-across-multiple-tables-in-sql-server/)
 <!--
 **piotrbach/piotrbach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
