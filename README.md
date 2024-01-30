@@ -37,8 +37,9 @@ Below, you can find some of my popular publications and collaborations:
 * [AngularJS's Future Explored - The Road Beyond End-of-Life](https://umbracare.net/blog/what-it-is-the-future-of-angularjs/)
 * [Problem with linking in Umbraco across pages in different cultures](https://umbracare.net/blog/problem-with-linking-in-umbraco-across-pages-in-different-cultures/)
 * [How to Examine Content Property Values for Given Data Type in Umbraco](https://umbracare.net/blog/examine-content-property-values-for-given-data-type-in-umbraco/)
+* [How to access currently published content in Umbraco](https://umbracare.net/blog/how-to-access-currently-published-content-in-umbraco/)
+  
 ## Azure
-
 * [Deploying ASP .NET app to FTP with Azure DevOps CI/CD pipeline](https://umbracare.net/blog/deploying-asp-net-app-to-ftp-with-azure-devops-cicd-pipeline/)
 * [How to Retrieve Azure App Service FTP Credentials](https://umbracare.net/blog/how-to-retrieve-azure-app-service-ftp-credentials/)
 
