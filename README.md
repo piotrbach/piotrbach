@@ -55,6 +55,7 @@ Below, you can find some of my popular publications and collaborations:
 * [Testing ASP.NET Core Action Filters with xUnit](https://umbracare.net/blog/testing-aspnet-core-action-filters-with-xunit/)
 
 ## MS SQL
+* [How to Count Records in MS SQL Server Database Tables](https://umbracare.net/blog/how-to-count-records-in-ms-sql-server-database-tables/)
 * [How to rebuild all indexes in MS SQL server database](https://umbracare.net/blog/how-to-rebuild-all-indexes-in-ms-sql-server-database/)
 * [Mastering Paginated Deletions in MSSQL Tables](https://umbracare.net/blog/mastering-paginated-deletions-in-mssql-tables/)
 * [Resetting Identity Column Values in SQL Server using DBCC CHECKIDENT](https://umbracare.net/blog/resetting-identity-column-values-in-sql-server-using-dbcc-checkident/)
