@@ -8,6 +8,7 @@ I find pleasure in sharing my knowledge and learnings.<br>
 Below, you can find some of my popular publications and collaborations:
 
 ## Umbraco CMS
+* [Warming-Up Umbraco for Peak Performance](https://umbracare.net/blog/warming-up-umbraco-for-peak-performance/)
 * [Ways to ensure Umbraco GDPR compliance](https://umbracare.net/blog/ways-to-ensure-umbraco-gdpr-compliance/)
 * [How to get Umbraco model property alias](https://umbracare.net/blog/how-to-get-umbraco-model-property-alias/)
 * [Umbraco Developer Key Skills](https://umbracare.net/blog/umbraco-developer-key-skills/)
