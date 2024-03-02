@@ -54,7 +54,6 @@ Below, you can find some of my popular publications and collaborations:
 * [How to disable ReSharper in Visual Studio](https://umbracare.net/blog/disabling-resharper-in-visual-studio/)
 * [Mastering Async Action Filters in ASP.NET Core](https://umbracare.net/blog/mastering-async-action-filters-in-aspnet-core/)
 * [Testing ASP.NET Core Action Filters with xUnit](https://umbracare.net/blog/testing-aspnet-core-action-filters-with-xunit/)
-* [Creating MSSQL User login via Powershell on Windows](https://umbracare.net/blog/creating-mssql-user-login-via-powershell-on-windows/)
 
 ## MS SQL
 * [How to Count Records in MS SQL Server Database Tables](https://umbracare.net/blog/how-to-count-records-in-ms-sql-server-database-tables/)
