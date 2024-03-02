@@ -62,6 +62,8 @@ Below, you can find some of my popular publications and collaborations:
 * [Mastering Paginated Deletions in MSSQL Tables](https://umbracare.net/blog/mastering-paginated-deletions-in-mssql-tables/)
 * [Resetting Identity Column Values in SQL Server using DBCC CHECKIDENT](https://umbracare.net/blog/resetting-identity-column-values-in-sql-server-using-dbcc-checkident/)
 * [Searching for text across multiple tables in SQL Server](https://umbracare.net/blog/searching-for-text-across-multiple-tables-in-sql-server/)
+* [Creating MSSQL User login via Powershell on Windows](https://umbracare.net/blog/creating-mssql-user-login-via-powershell-on-windows/)
+* [Creating a SQL Server login for an existing domain user in SSMS](https://umbracare.net/blog/creating-a-sql-server-login-for-an-existing-domain-user-in-ssms/)
 <!--
 **piotrbach/piotrbach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
