@@ -46,6 +46,7 @@ Below, you can find some of my popular publications and collaborations:
 ## Azure
 * [Deploying ASP .NET app to FTP with Azure DevOps CI/CD pipeline](https://umbracare.net/blog/deploying-asp-net-app-to-ftp-with-azure-devops-cicd-pipeline/)
 * [How to Retrieve Azure App Service FTP Credentials](https://umbracare.net/blog/how-to-retrieve-azure-app-service-ftp-credentials/)
+* [How to set UmbracoApplicationUrl in Azure Web Apps with Environment variables](https://umbracare.net/blog/how-to-set-umbracoapplicationurl-in-azure-web-apps-with-environment-variables/)
 
 ## ASP.NET Core & ASP .NET & .NET
 * [WordPress Password Validation in .NET Core Using JWT and C#](https://umbracare.net/blog/wordpress-password-validation-in-net-core-using-jwt-and-c-sharp/)
