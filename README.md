@@ -27,7 +27,6 @@ Below, you can find some of my popular publications and collaborations:
 * [Assigning Roles to Members in Umbraco CMS v8](https://umbracare.net/blog/assigning-roles-to-members-in-umbraco-cms-v8/)
 * [How to Retrieve a Forgotten Password in Umbraco](https://umbracare.net/blog/how-to-retrieve-a-forgotten-password-in-umbraco/)
 * [Integrating Umbraco with Azure Private Blob Storage](https://umbracare.net/blog/integrating-umbraco-with-azure-private-blob-storage/)
-* [Programmatically Setting Umbraco DateTime Picker with AngularJs](https://umbracare.net/blog/programmatically-setting-umbraco-datetime-picker-with-angularjs/)
 * [How to Use WebP Image Format in Umbraco for Better Performance](https://umbracare.net/blog/how-to-use-webp-image-format-in-umbraco-for-better-performance/)
 
 * [How to Delete Umbraco User Permanently](https://umbracare.net/blog/how-to-delete-umbraco-user-permanently/)
@@ -37,7 +36,6 @@ Below, you can find some of my popular publications and collaborations:
 * [How to detect slow responses in Umbraco API](https://umbracare.net/blog/how-to-detect-slow-responses-in-umbraco-api/)
 * [How to speed up Umbraco CMS performance](https://umbracare.net/blog/how-to-speed-up-umbraco-cms-performance/)
 * [Umbraco Web Api and MVC Dependency Injection with Autofac](https://umbracare.net/blog/umbraco-web-api-and-mvc-dependency-injection-with-autofac/)
-* [AngularJS's Future Explored - The Road Beyond End-of-Life](https://umbracare.net/blog/what-it-is-the-future-of-angularjs/)
 * [Problem with linking in Umbraco across pages in different cultures](https://umbracare.net/blog/problem-with-linking-in-umbraco-across-pages-in-different-cultures/)
 * [How to Examine Content Property Values for Given Data Type in Umbraco](https://umbracare.net/blog/examine-content-property-values-for-given-data-type-in-umbraco/)
 * [How to access currently published content in Umbraco](https://umbracare.net/blog/how-to-access-currently-published-content-in-umbraco/)
@@ -57,6 +55,11 @@ Below, you can find some of my popular publications and collaborations:
 * [Mastering Async Action Filters in ASP.NET Core](https://umbracare.net/blog/mastering-async-action-filters-in-aspnet-core/)
 * [Testing ASP.NET Core Action Filters with xUnit](https://umbracare.net/blog/testing-aspnet-core-action-filters-with-xunit/)
 
+## AngularJs
+* [AngularJS's Future Explored - The Road Beyond End-of-Life](https://umbracare.net/blog/what-it-is-the-future-of-angularjs/)
+* [How to render HTML in AngularJS](https://umbracare.net/blog/how-to-render-html-in-angularjs/)
+* [Programmatically Setting Umbraco DateTime Picker with AngularJs](https://umbracare.net/blog/programmatically-setting-umbraco-datetime-picker-with-angularjs/)
+  
 ## MS SQL
 * [How to Count Records in MS SQL Server Database Tables](https://umbracare.net/blog/how-to-count-records-in-ms-sql-server-database-tables/)
 * [How to rebuild all indexes in MS SQL server database](https://umbracare.net/blog/how-to-rebuild-all-indexes-in-ms-sql-server-database/)
