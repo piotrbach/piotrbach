@@ -54,6 +54,7 @@ Below, you can find some of my popular publications and collaborations:
 * [How to disable ReSharper in Visual Studio](https://umbracare.net/blog/disabling-resharper-in-visual-studio/)
 * [Mastering Async Action Filters in ASP.NET Core](https://umbracare.net/blog/mastering-async-action-filters-in-aspnet-core/)
 * [Testing ASP.NET Core Action Filters with xUnit](https://umbracare.net/blog/testing-aspnet-core-action-filters-with-xunit/)
+* [Implementing Comprehensive Request Logging in ASP.NET Core](https://umbracare.net/blog/implementing-comprehensive-request-logging-in-aspnet-core/)
 
 ## AngularJs
 * [AngularJS's Future Explored - The Road Beyond End-of-Life](https://umbracare.net/blog/what-it-is-the-future-of-angularjs/)
