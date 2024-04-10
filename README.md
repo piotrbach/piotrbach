@@ -5,7 +5,8 @@ I've been involved in commercial programming since 2008, which gives me over a d
 My professional journey is fueled by a deep passion for developing complex web solutions. 
 I primarily focus on the Umbraco platform, which I consider the ultimate content management framework for fostering business growth and innovation.
 
-I take great pleasure in sharing my knowledge and learnings. Below, you can find some of my popular publications and collaborations:
+I take great pleasure in sharing my knowledge and learnings. 
+Below, you can find some of my popular publications and collaborations:
 
 ## Umbraco CMS
 * [Understanding the confusion between Created and Published Dates in Umbraco](https://umbracare.net/blog/understanding-the-confusion-between-created-and-published-dates-in-umbraco/)
