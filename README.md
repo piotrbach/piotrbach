@@ -45,6 +45,7 @@ Below, you can find some of my popular publications and collaborations:
 * [How to Examine Content Property Values for Given Data Type in Umbraco](https://umbracare.net/blog/examine-content-property-values-for-given-data-type-in-umbraco/)
 * [How to access currently published content in Umbraco](https://umbracare.net/blog/how-to-access-currently-published-content-in-umbraco/)
 * [Handling Umbraco tags with a new String Split Option available in .NET](https://umbracare.net/blog/handling-umbraco-tags-with-a-new-string-split-option-available-in-net/)
+* [Navigate Umbraco Sibling Nodes with Ease Using C# Methods](https://umbracare.net/blog/navigate-umbraco-sibling-nodes-with-ease-using-c-methods/)
   
 ## Azure
 * [Deploying ASP .NET app to FTP with Azure DevOps CI/CD pipeline](https://umbracare.net/blog/deploying-asp-net-app-to-ftp-with-azure-devops-cicd-pipeline/)
