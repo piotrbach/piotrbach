@@ -46,7 +46,8 @@ Below, you can find some of my popular publications and collaborations:
 * [How to access currently published content in Umbraco](https://umbracare.net/blog/how-to-access-currently-published-content-in-umbraco/)
 * [Handling Umbraco tags with a new String Split Option available in .NET](https://umbracare.net/blog/handling-umbraco-tags-with-a-new-string-split-option-available-in-net/)
 * [Navigate Umbraco Sibling Nodes with Ease Using C# Methods](https://umbracare.net/blog/navigate-umbraco-sibling-nodes-with-ease-using-c-methods/)
-  
+* [How to Configure the Multinode Treepicker Start Node in Umbraco](https://umbracare.net/blog/how-to-configure-the-multinode-treepicker-start-node-in-umbraco/)
+
 ## Azure
 * [Deploying ASP .NET app to FTP with Azure DevOps CI/CD pipeline](https://umbracare.net/blog/deploying-asp-net-app-to-ftp-with-azure-devops-cicd-pipeline/)
 * [How to Retrieve Azure App Service FTP Credentials](https://umbracare.net/blog/how-to-retrieve-azure-app-service-ftp-credentials/)
