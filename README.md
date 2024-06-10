@@ -47,6 +47,7 @@ Below, you can find some of my popular publications and collaborations:
 * [Handling Umbraco tags with a new String Split Option available in .NET](https://umbracare.net/blog/handling-umbraco-tags-with-a-new-string-split-option-available-in-net/)
 * [Navigate Umbraco Sibling Nodes with Ease Using C# Methods](https://umbracare.net/blog/navigate-umbraco-sibling-nodes-with-ease-using-c-methods/)
 * [How to Configure the Multinode Treepicker Start Node in Umbraco](https://umbracare.net/blog/how-to-configure-the-multinode-treepicker-start-node-in-umbraco/)
+* [Enable NodeName Field Sorting in Umbraco Examine Search](https://umbracare.net/blog/enable-nodename-field-sorting-in-umbraco-examine-search/)
 
 ## Azure
 * [Deploying ASP .NET app to FTP with Azure DevOps CI/CD pipeline](https://umbracare.net/blog/deploying-asp-net-app-to-ftp-with-azure-devops-cicd-pipeline/)
