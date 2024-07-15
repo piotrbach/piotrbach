@@ -80,6 +80,7 @@ Below, you can find some of my popular publications and collaborations:
 * [Searching for text across multiple tables in SQL Server](https://umbracare.net/blog/searching-for-text-across-multiple-tables-in-sql-server/)
 * [Creating MSSQL User login via Powershell on Windows](https://umbracare.net/blog/creating-mssql-user-login-via-powershell-on-windows/)
 * [Creating a SQL Server login for an existing domain user in SSMS](https://umbracare.net/blog/creating-a-sql-server-login-for-an-existing-domain-user-in-ssms/)
+* [How to Fix SSL Certificate Trust Issues When Connecting to SQL Server](https://umbracare.net/blog/how-to-fix-ssl-certificate-trust-issues-when-connecting-to-sql-server/)
 <!--
 **piotrbach/piotrbach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
