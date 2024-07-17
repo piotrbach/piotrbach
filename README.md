@@ -73,6 +73,7 @@ Below, you can find some of my popular publications and collaborations:
 * [Programmatically Setting Umbraco DateTime Picker with AngularJs](https://umbracare.net/blog/programmatically-setting-umbraco-datetime-picker-with-angularjs/)
   
 ## MS SQL
+* [How to Compare Indexes Between Two MSSQL Databases Easily](https://umbracare.net/blog/how-to-compare-indexes-between-two-mssql-databases-easily/)
 * [How to Count Records in MS SQL Server Database Tables](https://umbracare.net/blog/how-to-count-records-in-ms-sql-server-database-tables/)
 * [How to rebuild all indexes in MS SQL server database](https://umbracare.net/blog/how-to-rebuild-all-indexes-in-ms-sql-server-database/)
 * [Mastering Paginated Deletions in MSSQL Tables](https://umbracare.net/blog/mastering-paginated-deletions-in-mssql-tables/)
