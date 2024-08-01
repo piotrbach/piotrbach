@@ -13,6 +13,7 @@ I take great pleasure in sharing my knowledge and learnings.
 Below, you can find some of my popular publications and collaborations:
 
 ## Umbraco CMS
+* [Addressing Umbraco Performance Issues: A Critical Update for Version 13 and 14](https://umbracare.net/blog/addressing-umbraco-performance-issues-a-critical-update-for-version-13-and-14/)
 * [Understanding the confusion between Created and Published Dates in Umbraco](https://umbracare.net/blog/understanding-the-confusion-between-created-and-published-dates-in-umbraco/)
 * [Warming-Up Umbraco for Peak Performance](https://umbracare.net/blog/warming-up-umbraco-for-peak-performance/)
 * [Ways to ensure Umbraco GDPR compliance](https://umbracare.net/blog/ways-to-ensure-umbraco-gdpr-compliance/)
