@@ -20,7 +20,7 @@ Below, you can find some of my popular publications and collaborations:
 * [How to get Umbraco model property alias](https://umbracare.net/blog/how-to-get-umbraco-model-property-alias/)
 * [Umbraco Developer Key Skills](https://umbracare.net/blog/umbraco-developer-key-skills/)
 * [How to use default language as default culture for threads in Umbraco](https://umbracare.net/blog/how-to-use-default-language-as-default-culture-for-threads-in-umbraco/)
-* [How to Disable Examine Indexing in Umbraco](https://umbracare.net/blog/how-to-disable-examine-indexing-in-umbraco/)
+* [How to Disable Examine External Indexing in Umbraco](https://umbracare.net/blog/how-to-disable-examine-indexing-in-umbraco/)
 * [Umbraco Redirect Url Table Data Truncated SQL Error](https://umbracare.net/blog/umbraco-redirect-url-table-data-truncated-sql-error/)
 * [How to streamline Umbraco content workflow for maximum Savings](https://umbracare.net/blog/how-to-streamline-umbraco-content-workflow-for-maximum-savings/)
 * [What is Umbraco CMS? Key Benefits and Facts](https://umbracare.net/blog/what-is-umbraco-cms/)
