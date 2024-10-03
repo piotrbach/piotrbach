@@ -51,6 +51,7 @@ Below, you can find some of my popular publications and collaborations:
 * [Be careful during publishing in a multilingual Umbraco website](https://umbracare.net/blog/be-careful-during-publishing-in-a-multilingual-umbraco-website/)
 * [How to Disable Examine External Indexing in Umbraco](https://umbracare.net/blog/how-to-disable-examine-indexing-in-umbraco/)
 * [How to Remove Any Examine Index in Umbraco](https://umbracare.net/blog/how-to-remove-any-examine-index-in-umbraco/)
+* [Breaking change to the Rich Text editor in Umbraco 13](https://umbracare.net/blog/breaking-change-to-the-rich-text-editor-in-umbraco-13/)
 
 ## Azure
 * [Deploying ASP .NET app to FTP with Azure DevOps CI/CD pipeline](https://umbracare.net/blog/deploying-asp-net-app-to-ftp-with-azure-devops-cicd-pipeline/)
