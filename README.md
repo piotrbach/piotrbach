@@ -85,6 +85,8 @@ Below, you can find some of my popular publications and collaborations:
 * [Creating MSSQL User login via Powershell on Windows](https://umbracare.net/blog/creating-mssql-user-login-via-powershell-on-windows/)
 * [Creating a SQL Server login for an existing domain user in SSMS](https://umbracare.net/blog/creating-a-sql-server-login-for-an-existing-domain-user-in-ssms/)
 * [How to Fix SSL Certificate Trust Issues When Connecting to SQL Server](https://umbracare.net/blog/how-to-fix-ssl-certificate-trust-issues-when-connecting-to-sql-server/)
+
+* [Domowe sposoby na ból pleców: Ulga dla pracujących przy komputerze](https://programowaniebiznesu.pl/blog/domowe-sposoby-na-bol-plecow-przy-komputerze/)
 <!--
 **piotrbach/piotrbach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
