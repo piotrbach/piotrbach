@@ -88,6 +88,7 @@ Below, you can find some of my popular publications and collaborations:
 
 ## Programowanie, Przedsiębiorczość, Luźne wpisy
 * [Przyszłość programowania w erze sztucznej inteligencji – perspektywy liderów branży](https://programowaniebiznesu.pl/blog/przyszlosc-programowania-w-erze-sztucznej-inteligencji-opinie-liderow-branzy/)
+* [Popełniaj te błędy a skończysz splukany jak Joe Frazier](https://programowaniebiznesu.pl/blog/popelniaj-te-bledy-a-skonczysz-splukany-jak-joe-frazier/)
 * [Domowe sposoby na ból pleców: Ulga dla pracujących przy komputerze](https://programowaniebiznesu.pl/blog/domowe-sposoby-na-bol-plecow-przy-komputerze/)
 <!--
 **piotrbach/piotrbach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
