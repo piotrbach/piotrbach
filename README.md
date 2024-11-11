@@ -69,6 +69,7 @@ Below, you can find some of my popular publications and collaborations:
 * [Implementing Comprehensive Request Logging in ASP.NET Core](https://umbracare.net/blog/implementing-comprehensive-request-logging-in-aspnet-core/)
 * [Top 20 defensive programming principles with examples](https://umbracare.net/blog/top-defensive-programming-principles-with-examples/)
 * [Resolving Syntactically invalid EHLO argument SmtpException in C#](https://umbracare.net/blog/resolving-syntactically-invalid-ehlo-argument-smtpexception-in-c/)
+* [SendGrid SMTP C# example](https://umbracare.net/blog/sendgrid-smtp-c-example/)
 
 ## AngularJs
 * [AngularJS's Future Explored - The Road Beyond End-of-Life](https://umbracare.net/blog/what-it-is-the-future-of-angularjs/)
