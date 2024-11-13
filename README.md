@@ -93,6 +93,8 @@ Below, you can find some of my popular publications and collaborations:
 ## Programowanie, AI, Przedsiębiorczość, Luźne wpisy
 * [Przyszłość programowania w erze sztucznej inteligencji – perspektywy liderów branży](https://programowaniebiznesu.pl/blog/przyszlosc-programowania-w-erze-sztucznej-inteligencji-opinie-liderow-branzy/)
 * [Największe błędy w programowaniu, których AI nie popełni – ale Ty możesz](https://programowaniebiznesu.pl/blog/najwieksze-bledy-w-programowaniu-ktorych-ai-nie-popelni/)
+* [Czy warto zatrudnić Programistę Juniora? Plusy, minusy](https://programowaniebiznesu.pl/blog/czy-warto-zatrudnic-programiste-juniora-plusy-minusy/)
+* [Skuteczne strategie wdrażania juniorów w zespołach IT](https://programowaniebiznesu.pl/blog/skuteczne-strategie-wdrazania-juniorow-w-zespolach-it/)
 * [Popełniaj te błędy a skończysz splukany jak Joe Frazier](https://programowaniebiznesu.pl/blog/popelniaj-te-bledy-a-skonczysz-splukany-jak-joe-frazier/)
 * [Domowe sposoby na ból pleców: Ulga dla pracujących przy komputerze](https://programowaniebiznesu.pl/blog/domowe-sposoby-na-bol-plecow-przy-komputerze/)
 <!--
