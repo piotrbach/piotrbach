@@ -14,6 +14,7 @@ Below, you can find some of my popular publications and collaborations:
 
 ## Umbraco CMS
 * [Umbraco LogViewer Error Troobleshooting](https://umbracare.net/blog/umbraco-logviewer-error-troobleshooting/)
+* [Reasons Why Your Umbraco Project Will Fail and You Will Lose Money](https://umbracare.net/blog/reasons-why-your-umbraco-project-will-fail-and-you-will-lose-money/)
 * [Addressing Umbraco Performance Issues: A Critical Update for Version 13 and 14](https://umbracare.net/blog/addressing-umbraco-performance-issues-a-critical-update-for-version-13-and-14/)
 * [Navigate Umbraco Sibling Nodes with Ease Using C# Methods](https://umbracare.net/blog/navigate-umbraco-sibling-nodes-with-ease-using-c-methods/)
 * [How to Configure the Multinode Treepicker Start Node in Umbraco](https://umbracare.net/blog/how-to-configure-the-multinode-treepicker-start-node-in-umbraco/)
