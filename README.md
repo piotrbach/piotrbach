@@ -44,6 +44,7 @@ Below, you can find some of my popular publications and collaborations:
 * [Integrating Umbraco with Azure Private Blob Storage](https://umbracare.net/blog/integrating-umbraco-with-azure-private-blob-storage/)
 * [How to Use WebP Image Format in Umbraco for Better Performance](https://umbracare.net/blog/how-to-use-webp-image-format-in-umbraco-for-better-performance/)
 
+* [Umbraco now uses .NET Core](https://umbracare.net/blog/umbraco-now-uses-net-core/)
 * [How to Delete Umbraco User Permanently](https://umbracare.net/blog/how-to-delete-umbraco-user-permanently/)
 * [Enabling CORS in Umbraco API with Azure](https://umbracare.net/blog/enabling-cors-in-umbraco-api-with-azure/)
 * [Optimizing Scripts in Umbraco - Bundling and Minification](https://umbracare.net/blog/optimizing-scripts-in-umbraco-bundling-and-minification/)
@@ -69,7 +70,7 @@ Below, you can find some of my popular publications and collaborations:
 * [How to disable ReSharper in Visual Studio](https://umbracare.net/blog/disabling-resharper-in-visual-studio/)
 * [Mastering Async Action Filters in ASP.NET Core](https://umbracare.net/blog/mastering-async-action-filters-in-aspnet-core/)
 * [Testing ASP.NET Core Action Filters with xUnit](https://umbracare.net/blog/testing-aspnet-core-action-filters-with-xunit/)
-* [Implementing Comprehensive Request Logging in ASP.NET Core](https://umbracare.net/blog/implementing-comprehensive-request-logging-in-aspnet-core/)
+* [HTTP Request Logging and Debugging in ASP.NET Core](https://umbracare.net/blog/http-request-logging-and-debugging-in-aspnet-core/)
 * [Top 20 defensive programming principles with examples](https://umbracare.net/blog/top-defensive-programming-principles-with-examples/)
 * [Resolving Syntactically invalid EHLO argument SmtpException in C#](https://umbracare.net/blog/resolving-syntactically-invalid-ehlo-argument-smtpexception-in-c/)
 * [SendGrid SMTP C# example](https://umbracare.net/blog/sendgrid-smtp-c-example/)
