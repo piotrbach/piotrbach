@@ -47,7 +47,7 @@ Below, you can find some of my popular publications and collaborations:
 * [Umbraco now uses .NET Core](https://umbracare.net/blog/umbraco-now-uses-net-core/)
 * [How to Delete Umbraco User Permanently](https://umbracare.net/blog/how-to-delete-umbraco-user-permanently/)
 * [Enabling CORS in Umbraco API with Azure](https://umbracare.net/blog/enabling-cors-in-umbraco-api-with-azure/)
-* [Optimizing Scripts in Umbraco - Bundling and Minification](https://umbracare.net/blog/optimizing-scripts-in-umbraco-bundling-and-minification/)
+* [Optimizing Scripts in Umbraco 8 - Bundling and Minification](https://umbracare.net/blog/optimizing-scripts-in-umbraco-bundling-and-minification/)
 * [Enhanced Logging for Umbraco API](https://umbracare.net/blog/enhanced-logging-for-umbraco-api/)
 * [How to detect slow responses in Umbraco API](https://umbracare.net/blog/how-to-detect-slow-responses-in-umbraco-api/)
 * [How to speed up Umbraco CMS performance](https://umbracare.net/blog/how-to-speed-up-umbraco-cms-performance/)
