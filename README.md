@@ -13,10 +13,12 @@ I take great pleasure in sharing my knowledge and learnings.
 Below, you can find some of my popular publications and collaborations:
 
 ## Umbraco CMS
-* [Umbraco LogViewer Error Troobleshooting](https://umbracare.net/blog/umbraco-logviewer-error-troobleshooting/)
+* [The Best Way to Organize Media Files in Umbraco](https://umbracare.net/blog/the-best-way-to-organize-media-files-in-umbraco/)
 * [Reasons Why Your Umbraco Project Will Fail and You Will Lose Money](https://umbracare.net/blog/reasons-why-your-umbraco-project-will-fail-and-you-will-lose-money/)
+* [Umbraco LogViewer Error Troobleshooting](https://umbracare.net/blog/umbraco-logviewer-error-troobleshooting/)
 * [Umbraco Audits Every CTO & PO Should Consider](https://umbracare.net/blog/umbraco-audits-every-cto-po-should-consider/)
 * [Addressing Umbraco Performance Issues: A Critical Update for Version 13 and 14](https://umbracare.net/blog/addressing-umbraco-performance-issues-a-critical-update-for-version-13-and-14/)
+* [Rebuild Umbraco Database Cache - What's Happening?](https://umbracare.net/blog/rebuild-umbraco-database-cache-whats-happening/)
 * [Navigate Umbraco Sibling Nodes with Ease Using C# Methods](https://umbracare.net/blog/navigate-umbraco-sibling-nodes-with-ease-using-c-methods/)
 * [How to Configure the Multinode Treepicker Start Node in Umbraco](https://umbracare.net/blog/how-to-configure-the-multinode-treepicker-start-node-in-umbraco/)
 * [Enable NodeName Field Sorting in Umbraco Examine Search](https://umbracare.net/blog/enable-nodename-field-sorting-in-umbraco-examine-search/)
@@ -31,7 +33,6 @@ Below, you can find some of my popular publications and collaborations:
 * [Umbraco Developer Key Skills](https://umbracare.net/blog/umbraco-developer-key-skills/)
 * [How to use default language as default culture for threads in Umbraco](https://umbracare.net/blog/how-to-use-default-language-as-default-culture-for-threads-in-umbraco/)
 * [Umbraco Redirect Url Table Data Truncated SQL Error](https://umbracare.net/blog/umbraco-redirect-url-table-data-truncated-sql-error/)
-* [How to streamline Umbraco content workflow for maximum Savings](https://umbracare.net/blog/how-to-streamline-umbraco-content-workflow-for-maximum-savings/)
 * [What is Umbraco CMS? Key Benefits and Facts](https://umbracare.net/blog/what-is-umbraco-cms/)
 * [Umbraco is Always Loading Content From Database on Azure App Service](https://umbracare.net/blog/umbraco-is-always-loading-content-from-database-on-azure-app-service/)
 * [Control content fields and tabs visibility in Umbraco CMS](https://umbracare.net/blog/control-content-fields-and-tabs-visibility-in-umbraco-cms/)
