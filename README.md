@@ -15,6 +15,7 @@ Below, you can find some of my popular publications and collaborations:
 ## Umbraco CMS
 * [The Best Way to Organize Media Files in Umbraco](https://umbracare.net/blog/the-best-way-to-organize-media-files-in-umbraco/)
 * [Reasons Why Your Umbraco Project Will Fail and You Will Lose Money](https://umbracare.net/blog/reasons-why-your-umbraco-project-will-fail-and-you-will-lose-money/)
+* [Replace LogViewer with Custom Implementation in Umbraco v13](https://umbracare.net/blog/replace-logviewer-with-custom-implementation-in-umbraco-v13/)
 * [Umbraco LogViewer Error Troobleshooting](https://umbracare.net/blog/umbraco-logviewer-error-troobleshooting/)
 * [Umbraco Audits Every CTO & PO Should Consider](https://umbracare.net/blog/umbraco-audits-every-cto-po-should-consider/)
 * [Addressing Umbraco Performance Issues: A Critical Update for Version 13 and 14](https://umbracare.net/blog/addressing-umbraco-performance-issues-a-critical-update-for-version-13-and-14/)
