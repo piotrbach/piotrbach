@@ -41,7 +41,7 @@ Below, you can find some of my popular publications and collaborations:
 * [How to Disable Examine Indexing in Umbraco](https://umbracare.net/blog/how-to-disable-examine-indexing-in-umbraco/)
 
 * [Best packages for Umbraco (free and paid)](https://umbracare.net/blog/best-packages-for-umbraco-free-and-paid/)
-* [Mastering Content Organization with Umbraco's Sort Feature](https://umbracare.net/blog/mastering-content-organization-with-umbracos-sort-feature/)
+* [How to use Umbraco sorting for content and media](https://umbracare.net/blog/how-to-use-umbraco-sorting-for-content-and-media/)
 * [Assigning Roles to Members in Umbraco CMS v8](https://umbracare.net/blog/assigning-roles-to-members-in-umbraco-cms-v8/)
 * [How to Retrieve a Forgotten Password in Umbraco](https://umbracare.net/blog/how-to-retrieve-a-forgotten-password-in-umbraco/)
 * [Integrating Umbraco with Azure Private Blob Storage](https://umbracare.net/blog/integrating-umbraco-with-azure-private-blob-storage/)
