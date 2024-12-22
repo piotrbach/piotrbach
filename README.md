@@ -39,6 +39,7 @@ Below, you can find some of my popular publications and collaborations:
 * [Umbraco is Always Loading Content From Database on Azure App Service](https://umbracare.net/blog/umbraco-is-always-loading-content-from-database-on-azure-app-service/)
 * [Control content fields and tabs visibility in Umbraco CMS](https://umbracare.net/blog/control-content-fields-and-tabs-visibility-in-umbraco-cms/)
 * [How to Disable Examine Indexing in Umbraco](https://umbracare.net/blog/how-to-disable-examine-indexing-in-umbraco/)
+* [Umbraco Freelancer or Agency? How to Choose the Best Option](https://umbracare.net/blog/umbraco-freelancer-or-agency-how-to-choose-the-best-option/)
 
 * [Best packages for Umbraco (free and paid)](https://umbracare.net/blog/best-packages-for-umbraco-free-and-paid/)
 * [How to use Umbraco sorting for content and media](https://umbracare.net/blog/how-to-use-umbraco-sorting-for-content-and-media/)
