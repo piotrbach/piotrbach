@@ -67,6 +67,7 @@ Below, you can find some of my popular publications and collaborations:
 * [How to set UmbracoApplicationUrl in Azure Web Apps with Environment variables](https://umbracare.net/blog/how-to-set-umbracoapplicationurl-in-azure-web-apps-with-environment-variables/)
 
 ## ASP.NET Core & ASP .NET & .NET
+* [Enable Brotli and Gzip Response Compression in ASP.NET Core](https://umbracare.net/blog/enable-brotli-and-gzip-response-compression-in-aspnet-core/)
 * [WordPress Password Validation in .NET Core Using JWT and C#](https://umbracare.net/blog/wordpress-password-validation-in-net-core-using-jwt-and-c-sharp/)
 * [ASP.NET Core Essential Features](https://umbracare.net/blog/aspnet-core-essential-features/)
 * [Optimizing Azure Web App: Enabling Dynamic GZIP Compression](https://umbracare.net/blog/optimizing-azure-web-app-enabling-dynamic-gzip-compression/)
