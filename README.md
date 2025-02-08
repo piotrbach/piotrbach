@@ -13,6 +13,8 @@ I take great pleasure in sharing my knowledge and learnings.
 Below, you can find some of my popular publications and collaborations:
 
 ## Umbraco CMS
+
+* [Using the umbracoUrlName Routing Property in Umbraco CMS](https://umbracare.net/blog/umbraco-umbracourlname-routing-property/)
 * [Using the umbracoRedirect Routing Property in Umbraco CMS](https://umbracare.net/blog/umbraco-302-redirect-routing-property/)
 * [Creating a Mirror Media Folder for Content in Umbraco Programmatically](https://umbracare.net/blog/creating-a-mirror-media-folder-for-content-in-umbraco-programmatically/)
 * [The Best Way to Organize Media Files in Umbraco](https://umbracare.net/blog/the-best-way-to-organize-media-files-in-umbraco/)
