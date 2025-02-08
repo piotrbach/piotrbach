@@ -16,7 +16,7 @@ Below, you can find some of my popular publications and collaborations:
 
 * [Override Default URL Node Name in Umbraco with umbracoUrlName Routing Property](https://umbracare.net/blog/umbraco-umbracourlname-routing-property/)
 * [302 Temporary Redirect in Umbraco with umbracoRedirect Routing Property](https://umbracare.net/blog/umbraco-302-redirect-routing-property/)
-* [Creating a Mirror Media Folder for Content in Umbraco Programmatically](https://umbracare.net/blog/creating-a-mirror-media-folder-for-content-in-umbraco-programmatically/)
+* [Creating a Mirror Media Folder for Content Node in Umbraco Programmatically](https://umbracare.net/blog/creating-a-mirror-media-folder-for-content-in-umbraco-programmatically/)
 * [The Best Way to Organize Media Files in Umbraco](https://umbracare.net/blog/the-best-way-to-organize-media-files-in-umbraco/)
 * [Reasons Why Your Umbraco Project Will Fail and You Will Lose Money](https://umbracare.net/blog/reasons-why-your-umbraco-project-will-fail-and-you-will-lose-money/)
 * [Replace LogViewer with Custom Implementation in Umbraco v13](https://umbracare.net/blog/replace-logviewer-with-custom-implementation-in-umbraco-v13/)
