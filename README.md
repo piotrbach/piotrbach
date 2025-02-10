@@ -14,6 +14,7 @@ Below, you can find some of my popular publications and collaborations:
 
 ## Umbraco CMS
 
+* [Alternative URL Paths for Umbraco Node with umbracoUrlAlias Routing Property](https://umbracare.net/blog/umbraco-umbracourlalias-routing-property/)
 * [Override Default URL Node Name in Umbraco with umbracoUrlName Routing Property](https://umbracare.net/blog/umbraco-umbracourlname-routing-property/)
 * [302 Temporary Redirect in Umbraco with umbracoRedirect Routing Property](https://umbracare.net/blog/umbraco-302-redirect-routing-property/)
 * [Creating a Mirror Media Folder for Content Node in Umbraco Programmatically](https://umbracare.net/blog/creating-a-mirror-media-folder-for-content-in-umbraco-programmatically/)
