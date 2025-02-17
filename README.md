@@ -15,6 +15,7 @@ Below, you can find some of my popular publications and collaborations:
 ## Umbraco CMS
 
 * [Magic Umbraco Routing Properties You Didn't Know](https://umbracare.net/blog/magic-umbraco-routing-properties/)
+* [Disabling Webhooks for Maximum Performance in Umbraco](https://umbracare.net/blog/disabling-webhooks-for-maximum-performance-in-umbraco/)
 * [Alternative URL Paths for Umbraco Node with umbracoUrlAlias Routing Property](https://umbracare.net/blog/umbraco-umbracourlalias-routing-property/)
 * [Override Default URL Node Name in Umbraco with umbracoUrlName Routing Property](https://umbracare.net/blog/umbraco-umbracourlname-routing-property/)
 * [302 Temporary Redirect in Umbraco with umbracoRedirect Routing Property](https://umbracare.net/blog/umbraco-302-redirect-routing-property/)
