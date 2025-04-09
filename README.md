@@ -117,6 +117,7 @@ Below, you can find some of my popular publications and collaborations:
 * [Jakie zawody może zastąpić sztuczna inteligencja?](https://programowaniebiznesu.pl/blog/jakie-zawody-moze-zastapic-sztuczna-inteligencja/)
 * [Popełniaj te błędy a skończysz splukany jak Joe Frazier](https://programowaniebiznesu.pl/blog/popelniaj-te-bledy-a-skonczysz-splukany-jak-joe-frazier/)
 * [Domowe sposoby na ból pleców: Ulga dla pracujących przy komputerze](https://programowaniebiznesu.pl/blog/domowe-sposoby-na-bol-plecow-przy-komputerze/)
+* [Dlaczego rozdmuchany socjal w Polsce jest szkodliwy](https://programowaniebiznesu.pl/blog/dlaczego-rozdmuchany-socjal-w-polsce-jest-szkodliwy/)
 <!--
 **piotrbach/piotrbach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
