@@ -109,6 +109,7 @@ Below, you can find some of my popular publications and collaborations:
 * [The Future of Programming in the Age of AI – Perspectives from Industry Leaders](https://umbracare.net/blog/the-future-of-programming-in-the-age-of-ai-perspectives-from-industry-leaders/)
 
 ## Programowanie, AI, Przedsiębiorczość, Luźne wpisy
+* [Plusy i minusy własnej platformy na Umbraco CMS](https://programowaniebiznesu.pl/blog/plusy-i-minusy-wlasnej-platformy-na-umbraco-cms/)
 * [ChatGPT i Sztuczna Empatia: Jak AI Udaje Ludzkie Emocje?](https://programowaniebiznesu.pl/blog/chatgpt-i-sztuczna-empatia-jak-ai-udaje-ludzkie-emocje/)
 * [Przyszłość programowania w erze sztucznej inteligencji – perspektywy liderów branży](https://programowaniebiznesu.pl/blog/przyszlosc-programowania-w-erze-sztucznej-inteligencji-opinie-liderow-branzy/)
 * [Największe błędy w programowaniu, których AI nie popełni – ale Ty możesz](https://programowaniebiznesu.pl/blog/najwieksze-bledy-w-programowaniu-ktorych-ai-nie-popelni/)
