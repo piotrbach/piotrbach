@@ -68,6 +68,11 @@ Below, you can find some of my popular publications and collaborations:
 * [How to Examine Content Property Values for Given Data Type in Umbraco](https://umbracare.net/blog/examine-content-property-values-for-given-data-type-in-umbraco/)
 * [How to access currently published content in Umbraco](https://umbracare.net/blog/how-to-access-currently-published-content-in-umbraco/)
 * [Handling Umbraco tags with a new String Split Option available in .NET](https://umbracare.net/blog/handling-umbraco-tags-with-a-new-string-split-option-available-in-net/)
+* [TIFF Images uploading in Umbraco CMS – Hidden Issues You Should Know](https://umbracare.net/blog/tiff-images-uploading-in-umbraco-cms/)
+* [Why 1 Umbraco Expert Is “Risky” – and 3 Average Developers Are Not](https://umbracare.net/blog/why-1-umbraco-expert-is-risky-and-3-average-developers-are-not/)
+* [The Great Outsourcing Crack: Why the "Bill-by-the-Head" Model Is Breaking Down](https://umbracare.net/blog/the-great-outsourcing-crack/)
+* [Umbraco Agency or Dedicated Developers? The Real Cost of Outsourced Teams](https://umbracare.net/blog/umbraco-agency-or-dedicated-developers-the-real-cost-of-outsourced-teams/)
+* [Umbraco Examine Rebuild Says "Done" – But It’s Not](https://umbracare.net/blog/examine-rebuild-says-done-but-it-s-not/)
 
 ## Azure
 * [Deploying ASP .NET app to FTP with Azure DevOps CI/CD pipeline](https://umbracare.net/blog/deploying-asp-net-app-to-ftp-with-azure-devops-cicd-pipeline/)
