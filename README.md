@@ -73,6 +73,7 @@ Below, you can find some of my popular publications and collaborations:
 * [The Great Outsourcing Crack: Why the "Bill-by-the-Head" Model Is Breaking Down](https://umbracare.net/blog/the-great-outsourcing-crack/)
 * [Umbraco Agency or Dedicated Developers? The Real Cost of Outsourced Teams](https://umbracare.net/blog/umbraco-agency-or-dedicated-developers-the-real-cost-of-outsourced-teams/)
 * [Umbraco Examine Rebuild Says "Done" – But It’s Not](https://umbracare.net/blog/examine-rebuild-says-done-but-it-s-not/)
+* [How to Choose the Right Umbraco Web Development Services](https://umbracare.net/blog/how-to-choose-the-right-umbraco-web-development-services/)
 
 ## Azure
 * [Deploying ASP .NET app to FTP with Azure DevOps CI/CD pipeline](https://umbracare.net/blog/deploying-asp-net-app-to-ftp-with-azure-devops-cicd-pipeline/)
