@@ -14,6 +14,7 @@ Below, you can find some of my popular publications and collaborations:
 
 ## Umbraco CMS
 
+* [Tips for Umbraco CMS editor](https://umbracare.net/blog/tips-for-umbraco-cms-editor/)
 * [Magic Umbraco Routing Properties You Didn't Know](https://umbracare.net/blog/magic-umbraco-routing-properties/)
 * [Disabling Webhooks for Maximum Performance in Umbraco](https://umbracare.net/blog/disabling-webhooks-for-maximum-performance-in-umbraco/)
 * [Alternative URL Paths for Umbraco Node with umbracoUrlAlias Routing Property](https://umbracare.net/blog/umbraco-umbracourlalias-routing-property/)
