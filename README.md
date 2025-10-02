@@ -77,6 +77,7 @@ Below, you can find some of my popular publications and collaborations:
 * [How to Choose the Right Umbraco Web Development Services](https://umbracare.net/blog/how-to-choose-the-right-umbraco-web-development-services/)
 * [uSync can override translations if not configured properly](https://umbracare.net/blog/usync-can-override-translations-if-not-configured-properly/)
 * [Tips for Umbraco CMS editor](https://umbracare.net/blog/tips-for-umbraco-cms-editor/)
+* [Uploading large files in Umbraco CMS](https://umbracare.net/blog/uploading-large-files-in-umbraco-cms/)
 
 ## Azure
 * [Deploying ASP .NET app to FTP with Azure DevOps CI/CD pipeline](https://umbracare.net/blog/deploying-asp-net-app-to-ftp-with-azure-devops-cicd-pipeline/)
