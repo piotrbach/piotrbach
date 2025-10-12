@@ -83,6 +83,7 @@ Below, you can find some of my popular publications and collaborations:
 * [Deploying ASP .NET app to FTP with Azure DevOps CI/CD pipeline](https://umbracare.net/blog/deploying-asp-net-app-to-ftp-with-azure-devops-cicd-pipeline/)
 * [How to Retrieve Azure App Service FTP Credentials](https://umbracare.net/blog/how-to-retrieve-azure-app-service-ftp-credentials/)
 * [How to set UmbracoApplicationUrl in Azure Web Apps with Environment variables](https://umbracare.net/blog/how-to-set-umbracoapplicationurl-in-azure-web-apps-with-environment-variables/)
+* [Fix Azure DevOps “AADSTS7000222: client secret expired”](https://umbracare.net/blog/fix-azure-devops-aadsts7000222-client-secret-expired/)
 
 ## ASP.NET Core & ASP .NET & .NET
 * [Best API Versioning Strategies in ASP.NET Core](https://umbracare.net/blog/api-versioning-strategies-in-aspnet-core/)
