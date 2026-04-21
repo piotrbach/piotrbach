@@ -14,7 +14,7 @@ Below, you can find some of my popular publications and collaborations:
 
 ## Umbraco CMS
 
-* [Tips for Umbraco CMS editor](https://umbracare.net/blog/tips-for-umbraco-cms-editor/)
+
 * [Magic Umbraco Routing Properties You Didn't Know](https://umbracare.net/blog/magic-umbraco-routing-properties/)
 * [Disabling Webhooks for Maximum Performance in Umbraco](https://umbracare.net/blog/disabling-webhooks-for-maximum-performance-in-umbraco/)
 * [Alternative URL Paths for Umbraco Node with umbracoUrlAlias Routing Property](https://umbracare.net/blog/umbraco-umbracourlalias-routing-property/)
@@ -32,9 +32,7 @@ Below, you can find some of my popular publications and collaborations:
 * [Rebuild Umbraco Database Cache - What's Happening?](https://umbracare.net/blog/rebuild-umbraco-database-cache-whats-happening/)
 * [Navigate Umbraco Sibling Nodes with Ease Using C# Methods](https://umbracare.net/blog/navigate-umbraco-sibling-nodes-with-ease-using-c-methods/)
 * [How to Configure the Multinode Treepicker Start Node in Umbraco](https://umbracare.net/blog/how-to-configure-the-multinode-treepicker-start-node-in-umbraco/)
-* [Enable NodeName Field Sorting in Umbraco Examine Search](https://umbracare.net/blog/enable-nodename-field-sorting-in-umbraco-examine-search/)
-* [Be careful during publishing in a multilingual Umbraco website](https://umbracare.net/blog/be-careful-during-publishing-in-a-multilingual-umbraco-website/)
-* [How to Disable Examine External Indexing in Umbraco](https://umbracare.net/blog/how-to-disable-examine-indexing-in-umbraco/)
+
 * [How to Remove Any Examine Index in Umbraco](https://umbracare.net/blog/how-to-remove-any-examine-index-in-umbraco/)
 * [Breaking change to the Rich Text editor in Umbraco 13](https://umbracare.net/blog/breaking-change-to-the-rich-text-editor-in-umbraco-13/)
 * [Understanding the confusion between Created and Published Dates in Umbraco](https://umbracare.net/blog/understanding-the-confusion-between-created-and-published-dates-in-umbraco/)
@@ -78,6 +76,10 @@ Below, you can find some of my popular publications and collaborations:
 * [uSync can override translations if not configured properly](https://umbracare.net/blog/usync-can-override-translations-if-not-configured-properly/)
 * [Tips for Umbraco CMS editor](https://umbracare.net/blog/tips-for-umbraco-cms-editor/)
 * [Uploading large files in Umbraco CMS](https://umbracare.net/blog/uploading-large-files-in-umbraco-cms/)
+* [Tips for Umbraco CMS editor](https://umbracare.net/blog/tips-for-umbraco-cms-editor/)
+* [Enable NodeName Field Sorting in Umbraco Examine Search](https://umbracare.net/blog/enable-nodename-field-sorting-in-umbraco-examine-search/)
+* [Be careful during publishing in a multilingual Umbraco website](https://umbracare.net/blog/be-careful-during-publishing-in-a-multilingual-umbraco-website/)
+* [How to Disable Examine External Indexing in Umbraco](https://umbracare.net/blog/how-to-disable-examine-indexing-in-umbraco/)
 
 ## Azure
 * [Deploying ASP .NET app to FTP with Azure DevOps CI/CD pipeline](https://umbracare.net/blog/deploying-asp-net-app-to-ftp-with-azure-devops-cicd-pipeline/)
