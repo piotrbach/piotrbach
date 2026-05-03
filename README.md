@@ -1,6 +1,6 @@
 ### Hi! I'm Piotr.  👋
 
-I'm a .NET Architect and Umbraco Expert, holding dual degrees in Computer Science (M.Sc.) and Mathematics (M.S.).
+I work as an Umbraco Expert and Architect, holding dual degrees in Computer Science (M.Sc.) and Mathematics (M.S.).
 
 I've been involved in commercial programming since 2008, which gives me over a decade of experience in this field. 
 
