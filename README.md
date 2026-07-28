@@ -67,7 +67,6 @@ Below, you can find some of my popular publications and collaborations:
 * [How to access currently published content in Umbraco](https://umbracare.net/blog/how-to-access-currently-published-content-in-umbraco/)
 * [Handling Umbraco tags with a new String Split Option available in .NET](https://umbracare.net/blog/handling-umbraco-tags-with-a-new-string-split-option-available-in-net/)
 * [TIFF Images uploading in Umbraco CMS – Hidden Issues You Should Know](https://umbracare.net/blog/tiff-images-uploading-in-umbraco-cms/)
-* [The Great Outsourcing Crack: Why the "Bill-by-the-Head" Model Is Breaking Down](https://umbracare.net/blog/the-great-outsourcing-crack/)
 * [Umbraco Examine Rebuild Says "Done" – But It’s Not](https://umbracare.net/blog/examine-rebuild-says-done-but-it-s-not/)
 * [How to Choose the Right Umbraco Web Development Services](https://umbracare.net/blog/how-to-choose-the-right-umbraco-web-development-services/)
 * [uSync can override translations if not configured properly](https://umbracare.net/blog/usync-can-override-translations-if-not-configured-properly/)
