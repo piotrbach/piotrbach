@@ -46,7 +46,6 @@ Below, you can find some of my popular publications and collaborations:
 * [Umbraco is Always Loading Content From Database on Azure App Service](https://umbracare.net/blog/umbraco-is-always-loading-content-from-database-on-azure-app-service/)
 * [Control content fields and tabs visibility in Umbraco CMS](https://umbracare.net/blog/control-content-fields-and-tabs-visibility-in-umbraco-cms/)
 * [How to Disable Examine Indexing in Umbraco](https://umbracare.net/blog/how-to-disable-examine-indexing-in-umbraco/)
-* [Umbraco Freelancer or Agency? How to Choose the Best Option](https://umbracare.net/blog/umbraco-freelancer-or-agency-how-to-choose-the-best-option/)
 
 * [Best packages for Umbraco (free and paid)](https://umbracare.net/blog/best-packages-for-umbraco-free-and-paid/)
 * [How to use Umbraco sorting for content and media](https://umbracare.net/blog/how-to-use-umbraco-sorting-for-content-and-media/)
@@ -68,9 +67,7 @@ Below, you can find some of my popular publications and collaborations:
 * [How to access currently published content in Umbraco](https://umbracare.net/blog/how-to-access-currently-published-content-in-umbraco/)
 * [Handling Umbraco tags with a new String Split Option available in .NET](https://umbracare.net/blog/handling-umbraco-tags-with-a-new-string-split-option-available-in-net/)
 * [TIFF Images uploading in Umbraco CMS – Hidden Issues You Should Know](https://umbracare.net/blog/tiff-images-uploading-in-umbraco-cms/)
-* [Why 1 Umbraco Expert Is “Risky” – and 3 Average Developers Are Not](https://umbracare.net/blog/why-1-umbraco-expert-is-risky-and-3-average-developers-are-not/)
 * [The Great Outsourcing Crack: Why the "Bill-by-the-Head" Model Is Breaking Down](https://umbracare.net/blog/the-great-outsourcing-crack/)
-* [Umbraco Agency or Dedicated Developers? The Real Cost of Outsourced Teams](https://umbracare.net/blog/umbraco-agency-or-dedicated-developers-the-real-cost-of-outsourced-teams/)
 * [Umbraco Examine Rebuild Says "Done" – But It’s Not](https://umbracare.net/blog/examine-rebuild-says-done-but-it-s-not/)
 * [How to Choose the Right Umbraco Web Development Services](https://umbracare.net/blog/how-to-choose-the-right-umbraco-web-development-services/)
 * [uSync can override translations if not configured properly](https://umbracare.net/blog/usync-can-override-translations-if-not-configured-properly/)
@@ -120,15 +117,3 @@ Below, you can find some of my popular publications and collaborations:
 
 ## Artificial intelligence
 * [The Future of Programming in the Age of AI – Perspectives from Industry Leaders](https://umbracare.net/blog/the-future-of-programming-in-the-age-of-ai-perspectives-from-industry-leaders/)
-
-## Programowanie, AI, Przedsiębiorczość, Luźne wpisy
-* [Plusy i minusy własnej platformy na Umbraco CMS](https://programowaniebiznesu.pl/blog/plusy-i-minusy-wlasnej-platformy-na-umbraco-cms/)
-* [ChatGPT i Sztuczna Empatia: Jak AI Udaje Ludzkie Emocje?](https://programowaniebiznesu.pl/blog/chatgpt-i-sztuczna-empatia-jak-ai-udaje-ludzkie-emocje/)
-* [Przyszłość programowania w erze sztucznej inteligencji – perspektywy liderów branży](https://programowaniebiznesu.pl/blog/przyszlosc-programowania-w-erze-sztucznej-inteligencji-opinie-liderow-branzy/)
-* [Największe błędy w programowaniu, których AI nie popełni – ale Ty możesz](https://programowaniebiznesu.pl/blog/najwieksze-bledy-w-programowaniu-ktorych-ai-nie-popelni/)
-* [Czy warto zatrudnić Programistę Juniora? Plusy, minusy](https://programowaniebiznesu.pl/blog/czy-warto-zatrudnic-programiste-juniora-plusy-minusy/)
-* [Skuteczne strategie wdrażania juniorów w zespołach IT](https://programowaniebiznesu.pl/blog/skuteczne-strategie-wdrazania-juniorow-w-zespolach-it/)
-* [Jakie zawody może zastąpić sztuczna inteligencja?](https://programowaniebiznesu.pl/blog/jakie-zawody-moze-zastapic-sztuczna-inteligencja/)
-* [Popełniaj te błędy a skończysz splukany jak Joe Frazier](https://programowaniebiznesu.pl/blog/popelniaj-te-bledy-a-skonczysz-splukany-jak-joe-frazier/)
-* [Domowe sposoby na ból pleców: Ulga dla pracujących przy komputerze](https://programowaniebiznesu.pl/blog/domowe-sposoby-na-bol-plecow-przy-komputerze/)
-* [Dlaczego rozdmuchany socjal w Polsce jest szkodliwy](https://programowaniebiznesu.pl/blog/dlaczego-rozdmuchany-socjal-w-polsce-jest-szkodliwy/)
