@@ -14,7 +14,8 @@ Below, you can find some of my popular publications and collaborations:
 
 ## Umbraco CMS
 
-
+* [How to Add Redirect URLs Directly in Umbraco Database](https://piotrbach.com/blog/how-to-add-redirect-urls-directly-in-umbraco-database/)
+* [Best Resources to Learn Umbraco](https://piotrbach.com/blog/best-resources-to-learn-umbraco/)
 * [Magic Umbraco Routing Properties You Didn't Know](https://umbracare.net/blog/magic-umbraco-routing-properties/)
 * [Disabling Webhooks for Maximum Performance in Umbraco](https://umbracare.net/blog/disabling-webhooks-for-maximum-performance-in-umbraco/)
 * [Alternative URL Paths for Umbraco Node with umbracoUrlAlias Routing Property](https://umbracare.net/blog/umbraco-umbracourlalias-routing-property/)
@@ -47,12 +48,12 @@ Below, you can find some of my popular publications and collaborations:
 * [Control content fields and tabs visibility in Umbraco CMS](https://umbracare.net/blog/control-content-fields-and-tabs-visibility-in-umbraco-cms/)
 * [How to Disable Examine Indexing in Umbraco](https://umbracare.net/blog/how-to-disable-examine-indexing-in-umbraco/)
 
-* [Best packages for Umbraco (free and paid)](https://umbracare.net/blog/best-packages-for-umbraco-free-and-paid/)
+* [Best Umbraco Packages: Free and Paid Picks](https://piotrbach.com/blog/best-packages-for-umbraco-free-and-paid/)
 * [How to use Umbraco sorting for content and media](https://umbracare.net/blog/how-to-use-umbraco-sorting-for-content-and-media/)
 * [Assigning Roles to Members in Umbraco CMS v8](https://umbracare.net/blog/assigning-roles-to-members-in-umbraco-cms-v8/)
 * [How to Retrieve a Forgotten Password in Umbraco](https://umbracare.net/blog/how-to-retrieve-a-forgotten-password-in-umbraco/)
-* [Integrating Umbraco with Azure Private Blob Storage](https://umbracare.net/blog/integrating-umbraco-with-azure-private-blob-storage/)
-* [How to Use WebP Image Format in Umbraco for Better Performance](https://umbracare.net/blog/how-to-use-webp-image-format-in-umbraco-for-better-performance/)
+* [Integrating Umbraco 8 with Azure Private Blob Storage](https://piotrbach.com/blog/integrating-umbraco-with-azure-private-blob-storage/)
+* [How to Use WebP in Umbraco 8 for Better Performance](https://piotrbach.com/blog/how-to-use-webp-image-format-in-umbraco-for-better-performance/)
 
 * [Umbraco now uses .NET Core](https://umbracare.net/blog/umbraco-now-uses-net-core/)
 * [How to Delete Umbraco User Permanently](https://umbracare.net/blog/how-to-delete-umbraco-user-permanently/)
@@ -88,9 +89,9 @@ Below, you can find some of my popular publications and collaborations:
 * [Enable Brotli and Gzip Response Compression in ASP.NET Core](https://umbracare.net/blog/enable-brotli-and-gzip-response-compression-in-aspnet-core/)
 * [WordPress Password Validation in .NET Core Using JWT and C#](https://umbracare.net/blog/wordpress-password-validation-in-net-core-using-jwt-and-c-sharp/)
 * [ASP.NET Core Essential Features](https://umbracare.net/blog/aspnet-core-essential-features/)
-* [Optimizing Azure Web App: Enabling Dynamic GZIP Compression](https://umbracare.net/blog/optimizing-azure-web-app-enabling-dynamic-gzip-compression/)
+* [Enable Dynamic GZIP Compression for IIS Azure Web App](https://piotrbach.com/blog/enable-dynamic-gzip-compression-for-iis-azure-web-app/)
 * [Optimizing ASP.NET with Bundling and Minification](https://umbracare.net/blog/optimizing-aspnet-with-bundling-and-minification/)
-* [How to disable ReSharper in Visual Studio](https://umbracare.net/blog/disabling-resharper-in-visual-studio/)
+* [How to Disable ReSharper in Visual Studio](https://piotrbach.com/blog/how-to-disable-resharper-in-visual-studio/)
 * [Implementing Async Action Filters in ASP.NET Core](https://umbracare.net/blog/implementing-async-action-filters-in-aspnet-core/)
 * [Testing ASP.NET Core Action Filters with xUnit](https://umbracare.net/blog/testing-aspnet-core-action-filters-with-xunit/)
 * [HTTP Request Logging and Debugging in ASP.NET Core](https://umbracare.net/blog/http-request-logging-and-debugging-in-aspnet-core/)
@@ -107,7 +108,7 @@ Below, you can find some of my popular publications and collaborations:
 * [How to Compare Indexes Between Two MSSQL Databases Easily](https://umbracare.net/blog/how-to-compare-indexes-between-two-mssql-databases-easily/)
 * [How to Count Records in MS SQL Server Database Tables](https://umbracare.net/blog/how-to-count-records-in-ms-sql-server-database-tables/)
 * [How to rebuild all indexes in MS SQL server database](https://umbracare.net/blog/how-to-rebuild-all-indexes-in-ms-sql-server-database/)
-* [Mastering Paginated Deletions in MSSQL Tables](https://umbracare.net/blog/mastering-paginated-deletions-in-mssql-tables/)
+* [Delete Millions of Rows in SQL Server Safely in Batches](https://piotrbach.com/blog/mastering-paginated-deletions-in-mssql-tables/)
 * [Resetting Identity Column Values in SQL Server using DBCC CHECKIDENT](https://umbracare.net/blog/resetting-identity-column-values-in-sql-server-using-dbcc-checkident/)
 * [Searching for text across multiple tables in SQL Server](https://umbracare.net/blog/searching-for-text-across-multiple-tables-in-sql-server/)
 * [Creating MSSQL User login via Powershell on Windows](https://umbracare.net/blog/creating-mssql-user-login-via-powershell-on-windows/)
