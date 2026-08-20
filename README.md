@@ -13,9 +13,12 @@ I take great pleasure in sharing my knowledge and learnings.
 Below, you can find some of my popular publications and collaborations:
 
 ## Umbraco CMS
-
-* [How to Add Redirect URLs Directly in Umbraco Database](https://piotrbach.com/blog/how-to-add-redirect-urls-directly-in-umbraco-database/)
+* [What Is Umbraco CMS? How It Works and When to Use It](https://piotrbach.com/blog/what-is-umbraco/)
+* [Why Umbraco’s Move to ASP.NET Core Changed the CMS](https://piotrbach.com/blog/why-umbraco-s-move-to-aspnet-core-changed-the-cms/)
 * [Best Resources to Learn Umbraco](https://piotrbach.com/blog/best-resources-to-learn-umbraco/)
+* [Umbraco GDPR Compliance: A Practical Developer Checklist](https://piotrbach.com/blog/umbraco-gdpr-compliance/)
+* [Umbraco Backoffice Session Timeout and Security](https://piotrbach.com/blog/umbraco-backoffice-session-timeout-and-security/)
+* [How to Add Redirect URLs Directly in Umbraco Database](https://piotrbach.com/blog/how-to-add-redirect-urls-directly-in-umbraco-database/)
 * [Configure a Multinode Treepicker Start Node in Umbraco](https://piotrbach.com/blog/configure-a-multinode-treepicker-start-node-umbraco/)
 * [Best Umbraco Packages: Free and Paid Picks](https://piotrbach.com/blog/best-packages-for-umbraco-free-and-paid/)
 * [How to Sort Content and Media in Umbraco](https://piotrbach.com/blog/how-to-sort-content-and-media-in-umbraco/)
@@ -61,27 +64,27 @@ Below, you can find some of my popular publications and collaborations:
 * [Breaking change to the Rich Text editor in Umbraco 13](https://umbracare.net/blog/breaking-change-to-the-rich-text-editor-in-umbraco-13/)
 * [Understanding the confusion between Created and Published Dates in Umbraco](https://umbracare.net/blog/understanding-the-confusion-between-created-and-published-dates-in-umbraco/)
 * [Warming-Up Umbraco for Peak Performance](https://umbracare.net/blog/warming-up-umbraco-for-peak-performance/)
-* [Ways to ensure Umbraco GDPR compliance](https://umbracare.net/blog/ways-to-ensure-umbraco-gdpr-compliance/)
+
 * [How to get Umbraco model property alias](https://umbracare.net/blog/how-to-get-umbraco-model-property-alias/)
 * [Umbraco Developer Key Skills](https://umbracare.net/blog/umbraco-developer-key-skills/)
 * [How to use default language as default culture for threads in Umbraco](https://umbracare.net/blog/how-to-use-default-language-as-default-culture-for-threads-in-umbraco/)
 * [Umbraco Redirect Url Table Data Truncated SQL Error](https://umbracare.net/blog/umbraco-redirect-url-table-data-truncated-sql-error/)
-* [What is Umbraco CMS? Key Benefits and Facts](https://umbracare.net/blog/what-is-umbraco-cms/)
+
 * [Umbraco is Always Loading Content From Database on Azure App Service](https://umbracare.net/blog/umbraco-is-always-loading-content-from-database-on-azure-app-service/)
 * [Control content fields and tabs visibility in Umbraco CMS](https://umbracare.net/blog/control-content-fields-and-tabs-visibility-in-umbraco-cms/)
 * [How to Disable Examine Indexing in Umbraco](https://umbracare.net/blog/how-to-disable-examine-indexing-in-umbraco/)
 * [How to Retrieve a Forgotten Password in Umbraco](https://umbracare.net/blog/how-to-retrieve-a-forgotten-password-in-umbraco/)
-* [Umbraco now uses .NET Core](https://umbracare.net/blog/umbraco-now-uses-net-core/)
 * [How to speed up Umbraco CMS performance](https://umbracare.net/blog/how-to-speed-up-umbraco-cms-performance/)
 * [Problem with linking in Umbraco across pages in different cultures](https://umbracare.net/blog/problem-with-linking-in-umbraco-across-pages-in-different-cultures/)
 
 ## Azure
+* [Deploy ASP.NET Website with Azure DevOps and FtpUpload@2](https://piotrbach.com/blog/deploy-aspnet-website-with-azure-devops-and-ftpupload-2/)
+* [Fix Azure DevOps AADSTS7000222: Client Secret Expired](https://piotrbach.com/blog/fix-azure-devops-aadsts7000222-client-secret-expired/)
 * [Configure UmbracoApplicationUrl in Azure Web Apps](https://piotrbach.com/blog/configure-umbracoapplicationurl-in-azure-web-apps/)
-* [Deploying ASP .NET app to FTP with Azure DevOps CI/CD pipeline](https://umbracare.net/blog/deploying-asp-net-app-to-ftp-with-azure-devops-cicd-pipeline/)
 * [How to Retrieve Azure App Service FTP Credentials](https://umbracare.net/blog/how-to-retrieve-azure-app-service-ftp-credentials/)
-* [Fix Azure DevOps “AADSTS7000222: client secret expired”](https://umbracare.net/blog/fix-azure-devops-aadsts7000222-client-secret-expired/)
 
 ## ASP.NET Core & ASP .NET & .NET
+* [Defensive Programming in .NET: Principles and Examples](https://piotrbach.com/blog/defensive-programming-in-dotnet/)
 * [Fix “Syntactically Invalid EHLO Argument” SmtpException in C#](https://piotrbach.com/blog/fix-syntactically-invalid-ehlo-argument-smtpexception-in-csharp/)
 * [Enable Brotli and Gzip Compression in ASP.NET Core](https://piotrbach.com/blog/enable-brotli-gzip-compression-aspnet-core/)
 * [Enable Dynamic GZIP Compression for IIS Azure Web App](https://piotrbach.com/blog/enable-dynamic-gzip-compression-for-iis-azure-web-app/)
@@ -90,7 +93,6 @@ Below, you can find some of my popular publications and collaborations:
 * [Implementing Async Action Filters in ASP.NET Core](https://umbracare.net/blog/implementing-async-action-filters-in-aspnet-core/)
 * [Testing ASP.NET Core Action Filters with xUnit](https://umbracare.net/blog/testing-aspnet-core-action-filters-with-xunit/)
 * [HTTP Request Logging and Debugging in ASP.NET Core](https://umbracare.net/blog/http-request-logging-and-debugging-in-aspnet-core/)
-* [Top 20 defensive programming principles with examples](https://umbracare.net/blog/top-defensive-programming-principles-with-examples/)
 * [SendGrid SMTP C# example](https://umbracare.net/blog/sendgrid-smtp-c-example/)
 * [WordPress Password Validation in .NET Core Using JWT and C#](https://umbracare.net/blog/wordpress-password-validation-in-net-core-using-jwt-and-c-sharp/)
 * [Best API Versioning Strategies in ASP.NET Core](https://umbracare.net/blog/api-versioning-strategies-in-aspnet-core/)
@@ -112,6 +114,3 @@ Below, you can find some of my popular publications and collaborations:
 * [Creating a SQL Server login for an existing domain user in SSMS](https://umbracare.net/blog/creating-a-sql-server-login-for-an-existing-domain-user-in-ssms/)
 * [How to Fix SSL Certificate Trust Issues When Connecting to SQL Server](https://umbracare.net/blog/how-to-fix-ssl-certificate-trust-issues-when-connecting-to-sql-server/)
 * [How to Compare Indexes Between Two MSSQL Databases Easily](https://umbracare.net/blog/how-to-compare-indexes-between-two-mssql-databases-easily/)
-  
-## Artificial intelligence
-* [The Future of Programming in the Age of AI – Perspectives from Industry Leaders](https://umbracare.net/blog/the-future-of-programming-in-the-age-of-ai-perspectives-from-industry-leaders/)
