@@ -32,6 +32,9 @@ Below, you can find some of my popular publications and collaborations:
 * [Detect Slow Umbraco 8 API Actions with Action Filters](https://piotrbach.com/blog/detect-slow-umbraco-8-api-actions-with-action-filters/)
 * [Umbraco 7 MVC and Web API Dependency Injection with Autofac](https://piotrbach.com/blog/umbraco-7-mvc-web-api-dependency-injection-autofac/)
 * [How to Examine Umbraco Property Values for a Given Data Type](https://piotrbach.com/blog/examine-umbraco-property-values-given-data-type/)
+* [How to Remove Any Examine Index in Umbraco](https://piotrbach.com/blog/how-to-remove-any-examine-index-in-umbraco/)
+* [Control content fields and tabs visibility in Umbraco CMS](https://piotrbach.com/blog/control-content-fields-and-tabs-visibility-in-umbraco-cms/)
+* [Fix umbracoRedirectUrl Data Truncation in Umbraco 13](https://piotrbach.com/blog/fix-umbracoredirecturl-data-truncation-in-umbraco/)
 
 ## Azure
 * [Deploy ASP.NET Website with Azure DevOps and FtpUpload@2](https://piotrbach.com/blog/deploy-aspnet-website-with-azure-devops-and-ftpupload-2/)
@@ -46,6 +49,8 @@ Below, you can find some of my popular publications and collaborations:
 * [Enable Dynamic GZIP Compression for IIS Azure Web App](https://piotrbach.com/blog/enable-dynamic-gzip-compression-for-iis-azure-web-app/)
 * [ASP.NET Bundling and Minification](https://piotrbach.com/blog/aspnet-bundling-and-minification/)
 * [How to Disable ReSharper in Visual Studio](https://piotrbach.com/blog/how-to-disable-resharper-in-visual-studio/)
+* [Send Email with SendGrid SMTP in C# and .NET Framework 4.8](https://piotrbach.com/blog/send-email-with-sendgrid-smtp-in-csharp-and-net-framework-48/)
+* [Authenticate WordPress Users from .NET with JWT REST API](https://piotrbach.com/blog/authenticate-wordpress-users-from-dotnet-with-jwt-rest-api/)
   
 ## AngularJs
 * [AngularJS End of Life: What to Do with Legacy Apps](https://piotrbach.com/blog/angularjs-end-of-life-legacy-apps/)
