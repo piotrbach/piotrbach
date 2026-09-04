@@ -35,11 +35,17 @@ Below, you can find some of my popular publications and collaborations:
 * [How to Remove Any Examine Index in Umbraco](https://piotrbach.com/blog/how-to-remove-any-examine-index-in-umbraco/)
 * [Control content fields and tabs visibility in Umbraco CMS](https://piotrbach.com/blog/control-content-fields-and-tabs-visibility-in-umbraco-cms/)
 * [Fix umbracoRedirectUrl Data Truncation in Umbraco 13](https://piotrbach.com/blog/fix-umbracoredirecturl-data-truncation-in-umbraco/)
-
+* [Sort Umbraco Examine Results by NodeName in Umbraco](https://piotrbach.com/blog/sort-umbraco-examine-results-by-nodename-in-umbraco/)
+* [Debugging Slow Publishing in Umbraco 13 at 325K Nodes](https://piotrbach.com/blog/debugging-slow-publishing-in-umbraco-13-at-325k-nodes/)
+* [How 805K Documents Exposed Webhook Polling in Umbraco 13](https://piotrbach.com/blog/how-805k-documents-exposed-webhook-polling-in-umbraco-13/)
+* [Making Umbraco 13 LogViewer Resilient to Corrupted JSON Logs](https://piotrbach.com/blog/umbraco-13-logviewer-corrupted-json-logs/)
+* [How to Warm Up Umbraco 13 Pages with a Hosted Service](https://piotrbach.com/blog/how-to-warm-up-umbraco-13-pages-with-a-hosted-service/)
+  
 ## Azure
 * [Deploy ASP.NET Website with Azure DevOps and FtpUpload@2](https://piotrbach.com/blog/deploy-aspnet-website-with-azure-devops-and-ftpupload-2/)
 * [Fix Azure DevOps AADSTS7000222: Client Secret Expired](https://piotrbach.com/blog/fix-azure-devops-aadsts7000222-client-secret-expired/)
 * [Configure UmbracoApplicationUrl in Azure Web Apps](https://piotrbach.com/blog/configure-umbracoapplicationurl-in-azure-web-apps/)
+* [How to Find Azure App Service FTP/FTPS Credentials](https://piotrbach.com/blog/how-to-find-azure-app-service-ftpftps-credentials/)
 
 ## ASP.NET Core & ASP .NET & .NET
 * [ASP.NET Core Architecture: The Decisions That Matter in Production](https://piotrbach.com/blog/aspnet-core-architecture/)
