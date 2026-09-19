@@ -40,6 +40,11 @@ Below, you can find some of my popular publications and collaborations:
 * [How 805K Documents Exposed Webhook Polling in Umbraco 13](https://piotrbach.com/blog/how-805k-documents-exposed-webhook-polling-in-umbraco-13/)
 * [Making Umbraco 13 LogViewer Resilient to Corrupted JSON Logs](https://piotrbach.com/blog/umbraco-13-logviewer-corrupted-json-logs/)
 * [How to Warm Up Umbraco 13 Pages with a Hosted Service](https://piotrbach.com/blog/how-to-warm-up-umbraco-13-pages-with-a-hosted-service/)
+* [Umbraco Routing Properties: URL Names, Aliases, Redirects and Internal Redirects](https://piotrbach.com/blog/umbraco-routing-properties/)
+* [Change an Umbraco URL Segment with umbracoUrlName](https://piotrbach.com/blog/umbraco-umbracourlname-routing-property/)
+* [Create Alternative URLs in Umbraco with umbracoUrlAlias](https://piotrbach.com/blog/umbraco-umbracourlalias-routing-property/)
+* [Create a 302 Redirect in Umbraco with umbracoRedirect](https://piotrbach.com/blog/umbraco-302-redirect-routing-property/)
+* [Internal Redirects in Umbraco with umbracoInternalRedirectId](https://piotrbach.com/blog/umbraco-internal-redirect-routing-property/)
   
 ## Azure
 * [Deploy ASP.NET Website with Azure DevOps and FtpUpload@2](https://piotrbach.com/blog/deploy-aspnet-website-with-azure-devops-and-ftpupload-2/)
