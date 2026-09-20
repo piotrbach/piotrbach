@@ -45,6 +45,8 @@ Below, you can find some of my popular publications and collaborations:
 * [Create Alternative URLs in Umbraco with umbracoUrlAlias](https://piotrbach.com/blog/umbraco-umbracourlalias-routing-property/)
 * [Create a 302 Redirect in Umbraco with umbracoRedirect](https://piotrbach.com/blog/umbraco-302-redirect-routing-property/)
 * [Internal Redirects in Umbraco with umbracoInternalRedirectId](https://piotrbach.com/blog/umbraco-internal-redirect-routing-property/)
+* [How to Audit an Umbraco Project: A Practical Technical Framework](https://piotrbach.com/blog/how-to-audit-an-umbraco-project/)
+* [How to Improve Umbraco Performance: A Production Guide](https://piotrbach.com/blog/how-to-improve-umbraco-performance/)
   
 ## Azure
 * [Deploy ASP.NET Website with Azure DevOps and FtpUpload@2](https://piotrbach.com/blog/deploy-aspnet-website-with-azure-devops-and-ftpupload-2/)
