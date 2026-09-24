@@ -1,16 +1,10 @@
 ### Hi! I'm Piotr.  👋
 
-I work as an Umbraco Expert and Architect, holding dual degrees in Computer Science (M.Sc.) and Mathematics (M.S.).
+I build web projects, mostly with Umbraco and .NET.
 
-I've been involved in commercial programming since 2008, which gives me over a decade of experience in this field. 
+I like figuring out how things work and sharing what I learn.
 
-My professional journey is fueled by a deep passion for developing complex web solutions. 
-
-I primarily focus on the Umbraco platform, which I consider the ultimate content management framework for fostering business growth and innovation.
-
-I take great pleasure in sharing my knowledge and learnings. 
-
-Below, you can find some of my popular publications and collaborations:
+Here are some of my articles:
 
 ## Umbraco CMS
 * [What Is Umbraco CMS? How It Works and When to Use It](https://piotrbach.com/blog/what-is-umbraco/)
